@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    width: 95%;
+    margin: auto;
+}
+
+.header__title {
+    display: flex;
+    justify-content: left;
+}
+
+.header__nav {
+    display: flex;
+    margin: auto;
+}
+
+.header__notification {
+    display: flex;
+    justify-content: right;
+}
