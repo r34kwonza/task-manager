@@ -2,11 +2,13 @@
     display: flex;
     width: 95%;
     margin: auto;
+    align-items: center;
 }
 
 .header__title {
     display: flex;
     justify-content: left;
+    align-items: center;
 }
 
 .header__nav {
